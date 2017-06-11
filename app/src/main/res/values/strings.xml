@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CookieShop</string>
+    <string name="shop_name">Super Villain Cookie Shop</string>
+    <string-array name="menu_options">
+        <item>See Cookies</item>
+        <item>No thanks, I\'m on a diet</item>
+    </string-array>
+    <string-array name="options">
+        <item>Drinks</item>
+        <item>Food</item>
+        <item>Stores</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
